@@ -89,7 +89,7 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ## Predicted Values:
 ![](pred.PNG)
 ## Accuracy Score:
-![](accuracy.PNg)
+![](accuracy.PNG)
 ## Confusion Matrix:
 ![](confusion.PNG)
 ## Classification Report:
